@@ -4,4 +4,4 @@
 1. Autohotkey: https://www.autohotkey.com/
 2. Java: https://www.java.com/en/download/manual.jsp
 
-### Script in code file
+### Script in "Auto" file
