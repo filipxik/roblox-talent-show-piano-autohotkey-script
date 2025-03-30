@@ -1,4 +1,4 @@
-# roblox-talent-show-piano-autohotkey-script
+# roblox talent show piano autohotkey script
 ## Requirements:
 
 1. Autohotkey: https://www.autohotkey.com/
